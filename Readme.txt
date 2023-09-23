@@ -1,0 +1,1 @@
+Se utilizó HTML y CSS, ademas de agregar la carpeta de imagenes y bibliografia no es ;)

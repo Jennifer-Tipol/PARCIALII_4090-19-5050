@@ -1,11 +1,11 @@
 /* Estilos para el encabezado */
 header {
     background-color: #031c25; /* Utilizamos el código de color para celeste cielo */
-    padding: 20px; /* Agregamos un espacio interno de 20px alrededor del contenido del encabezado */
+    padding: 20px; 
 }
 /* Estilos para los enlaces dentro del encabezado */
 header a {
-    color: white; /* Cambiamos el color del texto a blanco para mayor contraste con el fondo celeste cielo */
+    color: white; 
     text-decoration: none; /* Quitamos la subrayado de los enlaces */
     margin-right: 10px; /* Agregamos un espacio de 10px entre los enlaces */
 }
